@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameEngine">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAEAAAAAAAAAAkACEAICAgEAAAAAAAAYAIAAAAAAI=</HashCode>
+      <FileName>GameEngine.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="trace" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MyVector&lt;T&gt;">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAiAAEAAABAQAAEAKIAIIACAAEAAAAhCAAKQAAAAAA=</HashCode>
+      <FileName>TVector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Record">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAgAAAABAA=</HashCode>
+      <FileName>GameEngine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
